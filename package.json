@@ -1,0 +1,23 @@
+{
+  "name": "quran_wallpaper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "jimp": "^0.6.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnazrii/quran_wallpaper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnazrii/quran_wallpaper/issues"
+  },
+  "homepage": "https://github.com/mnazrii/quran_wallpaper#readme"
+}
