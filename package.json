@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "dependencies": {
-    "jimp": "^0.6.4"
+    "jimp": "^0.22.7"
   },
   "devDependencies": {},
   "scripts": {
